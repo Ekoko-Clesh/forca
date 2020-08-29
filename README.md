@@ -1,5 +1,5 @@
 # forca
-funcionamento do jogo da forca  https://github.com/Gabriel-1999/forca.wiki.git
+funcionamento do jogo da forca  https://mental-management.000webhostapp.com/index.html
 
 # Clonar Repositório
 
