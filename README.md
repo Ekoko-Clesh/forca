@@ -1,6 +1,6 @@
 # forca
 funcionamento do jogo da forca https://pt.m.wikipedia.org/wiki/Jogo_da_forca
-
+wiki
 # Clonar Repositório
 
 $ git clone https://github.com/Gabriel-1999/forca.git
